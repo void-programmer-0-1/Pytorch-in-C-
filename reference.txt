@@ -1,0 +1,4 @@
+
+*************** how to load the model and predict in c++ ***************
+https://pytorch.org/tutorials/advanced/cpp_export.html
+
